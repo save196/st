@@ -7,10 +7,9 @@
  */
 static char *font = "monospace:pixelsize=15:antialias=true:autohint=true";
 static char *font2[] = {
-    "Inconsolata for Powerline:pixelsize=16:antialias=true:autohint=true",
-    "JoyPixels:pixelsize=10:antialias=true:autohint=true",
-    "Noto Color Font:pixelsize=10:antialias=true:autohint=true",
-    "FontAwesome:pixelsize=13:antialias=true:autohint=true"
+    "Inconsolata for Powerline:pixelsize=16",
+    "JoyPixels:pixelsize=13",
+    "FontAwesome:pixelsize=13"
 };
 
 
