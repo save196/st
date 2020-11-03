@@ -7,7 +7,7 @@
  */
 static char *font = "monospace:pixelsize=15:antialias=true:autohint=true";
 static char *font2[] = {
-    /* "Inconsolata for Powerline:pixelsize=16", */
+    "Inconsolata for Powerline:pixelsize=16",
     "Inconsolata Nerd Font Mono:pixelsize=16",
     "Noto Color Emoji:pixelsize=13",
     "FontAwesome:pixelsize=13"
